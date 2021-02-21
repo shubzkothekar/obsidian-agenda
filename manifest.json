@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-agenda",
+  "name": "Agenda",
+  "version": "0.0.1",
+  "description": "A plugin to help you plan your day, week and month",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "css": "style.css"
+}
